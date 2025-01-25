@@ -1,6 +1,6 @@
-# Weather Forecast App Hoisted on :  https://atul-11.github.io/Weather_Forcast_App/ (follow this link )
+# Weather Forecast App 
 
-This is a simple weather forecasting web application built with HTML, CSS, and JavaScript. The app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api) and displays the weather conditions of any city entered by the user.
+This is a simple weather forecasting web application built with HTML, CSS, and JavaScript. The app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api) and displays the weather conditions of any city entered by the user Hoisted on :  https://atul-11.github.io/Weather_Forcast_App/ (follow this link )
 
 ## Features
 
